@@ -11,6 +11,7 @@ group :test do
   gem "guard"
   gem "guard-minitest"
   gem "minitest", ">= 3.0"
+  gem "minitest-reporters"
   gem "mocha"
   gem "simplecov", :require => false
 end
